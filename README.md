@@ -1,2 +1,4 @@
 # openbuild_sbc
-openbuildxyz solidity bootcamp
+[openbuildxyz solidity bootcamp](https://github.com/openbuildxyz/solidity_bootcamp)
+
+## Introduction
